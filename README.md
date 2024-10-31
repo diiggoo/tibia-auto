@@ -19,6 +19,9 @@ Este projeto é um bot para automação de ações em um jogo, com o propósito 
 - **pyautogui**: Utilizada para simular teclas, movimentos do mouse e realizar verificações de cor em regiões específicas da tela.
 - **pynput**: Usada para monitorar o teclado e capturar eventos de hotkeys.
 - **threading**: Permite a execução simultânea de tarefas, como a rotação de skills e o monitoramento de vida e mana.
+- **opencv-python**: Biblioteca para processamento de imagens e visão computacional, utilizada para tarefas como detecção e reconhecimento de objetos.
+- **pillow**: Biblioteca de manipulação de imagens que permite abrir, modificar e salvar diferentes formatos de imagem.
+
 
 ## Requisitos
 
